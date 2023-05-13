@@ -1,0 +1,3 @@
+﻿  GaussMethod.cpp
+D:\Studies\БГУИР\1_Курс\2_Семестр\ОАиП\GaussMethod\GaussMethod\GaussMethod.cpp(128,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  GaussMethod.vcxproj -> D:\Studies\БГУИР\1_Курс\2_Семестр\ОАиП\GaussMethod\x64\Debug\GaussMethod.exe
